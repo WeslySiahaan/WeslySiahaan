@@ -380,34 +380,11 @@ Completed **6 competency certification programs**, including:
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=WeslySiahaan&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Wesly's GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslySiahaan&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Wesly's Top Languages"
-/>
-
-<br/><br/>
 
 <img
   src="https://streak-stats.demolab.com?user=WeslySiahaan&theme=tokyonight&hide_border=true"
   alt="Wesly's GitHub Streak"
 />
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=WeslySiahaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 </div>
 
