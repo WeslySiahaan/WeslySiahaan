@@ -374,41 +374,40 @@ Completed **6 competency certification programs**, including:
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=WeslySiahaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=WeslySiahaan&show_icons=true&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Wesly's GitHub Statistics"
+/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslySiahaan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslySiahaan&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Wesly's Top Languages"
+/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=WeslySiahaan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WeslySiahaan&theme=tokyo-night&hide_border=true&area=true"/>
+<img
+  src="https://streak-stats.demolab.com?user=WeslySiahaan&theme=tokyonight&hide_border=true"
+  alt="Wesly's GitHub Streak"
+/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/WeslySiahaan/WeslySiahaan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://github-profile-trophy.vercel.app/?username=WeslySiahaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -416,21 +415,17 @@ Completed **6 competency certification programs**, including:
 
 # 🎯 Current Focus
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   🚀 Full Stack Development                          ║
-║                                                      ║
-║   🤖 Artificial Intelligence                         ║
-║                                                      ║
-║   🧠 Computer Vision & Machine Learning              ║
-║                                                      ║
-║   ⚡ Backend Engineering & API Development           ║
-║                                                      ║
-║   🏗️ Scalable Software Architecture                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+| 🚀 Full Stack | 🤖 Artificial Intelligence | 🧠 Computer Vision |
+|:---:|:---:|:---:|
+| React.js • Laravel | Python • RAG • LLM | YOLO • OpenCV • DeepSORT |
+
+| ⚡ Backend Engineering | 🏗️ Software Architecture | 📱 Mobile Development |
+|:---:|:---:|:---:|
+| Go • FastAPI • Node.js | Clean Architecture | Flutter • Dart |
+
+</div>
 
 ---
 
@@ -449,7 +444,5 @@ I'm interested in **software engineering, AI, computer vision, backend systems, 
 <br/><br/>
 
 ⭐ **Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=130&section=footer" width="100%"/>
 
 </div>
