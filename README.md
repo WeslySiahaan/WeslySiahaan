@@ -194,7 +194,6 @@ RAG
 
 ---
 
-<div align="center">
 
 # 🚀 Featured Projects
 
@@ -224,11 +223,9 @@ recommendations and dynamic travel itineraries for the Lake Toba region.
 🗺️ Geographic routing and travel planning<br/>
 📊 RAG evaluation using MRR, Recall@K, NDCG@K, and MAP
 
-</div>
 
 ---
 
-<div align="center">
 
 ## 🍈 Real-Time Melon Detection & Counting
 
@@ -298,11 +295,9 @@ Camera / Image
 📱 Cross-platform Flutter application<br/>
 📊 Model evaluation using Precision, Recall, and mAP
 
-</div>
 
 ---
 
-<div align="center">
 
 ## 💳 FinPay Enterprise-Grade Digital Wallet
 
@@ -342,7 +337,6 @@ transfers, withdrawals, and administrative workflows.
 
 ---
 
-<div align="center">
 
 ## 🏨 StayEase Hotel Management System
 
@@ -373,11 +367,8 @@ for Super Admins and Hotel Owners.
 📊 Revenue reporting<br/>
 📈 Administrative dashboard
 
-</div>
-
 ---
 
-<div align="center">
 
 # 💼 Professional Experience
 
@@ -421,11 +412,9 @@ with responsive interfaces, backend functionality, database management,
 and API integration.
 </p>
 
-</div>
 
 ---
 
-<div align="center">
 
 # 🏆 Achievements
 
@@ -470,7 +459,6 @@ Building Web Applications with React<br/>
 Fundamental Web Applications with React<br/>
 React Web Developer Expert
 
-</div>
 
 ---
 
