@@ -49,6 +49,7 @@ Artificial Intelligence, Computer Vision, and modern software architecture.</str
 
 <br/>
 
+<div align="center">
 <table>
 <tr>
 <td align="center">
