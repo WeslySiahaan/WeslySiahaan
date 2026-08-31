@@ -233,8 +233,6 @@ recommendations and dynamic travel itineraries for the Lake Toba region.
 
 <strong>Software Developer & AI Developer</strong>
 
-<br/><br/>
-
 <a href="https://github.com/WeslySiahaan/projet_tugasakhir">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -303,8 +301,6 @@ Camera / Image
 
 <strong>Full-Stack Web Developer & Backend Developer</strong>
 
-<br/><br/>
-
 <a href="https://github.com/WeslySiahaan/Project_GoLang">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -333,7 +329,6 @@ transfers, withdrawals, and administrative workflows.
 🔄 Optimistic locking<br/>
 🏗️ Clean Architecture
 
-</div>
 
 ---
 
@@ -342,7 +337,6 @@ transfers, withdrawals, and administrative workflows.
 
 <strong>Full-Stack Web Developer</strong>
 
-<br/><br/>
 
 <a href="https://github.com/WeslySiahaan/StayEase">
 <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
@@ -376,12 +370,10 @@ for Super Admins and Hotel Owners.
 
 <strong>Full Stack Web Developer</strong>
 
-<br/>
 
 📍 Belawan, Medan<br/>
 📅 August 2025 – December 2025
 
-<br/><br/>
 
 `React.js` `Node.js` `TypeScript` `MySQL` `REST API` `Apache JMeter` `Agile/Scrum`
 
@@ -397,12 +389,10 @@ development environment.
 
 <strong>Full Stack Web Developer</strong>
 
-<br/>
 
 📍 Cibubur, Depok, West Java<br/>
 📅 March 2025 – August 2025
 
-<br/><br/>
 
 `Laravel` `PHP` `MySQL` `JavaScript` `HTML` `CSS` `REST API` `Agile/Scrum`
 
@@ -422,15 +412,11 @@ and API integration.
 
 <strong>"Build Smart Solutions, Shape the Future of Tourism"</strong>
 
-<br/>
 
 Institut Teknologi Del · 2026
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/AI%20Hackathon-2nd%20Winner-FFD700?style=for-the-badge&logo=robot&logoColor=black"/>
 
-<br/><br/>
 
 ---
 
