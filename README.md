@@ -1,127 +1,104 @@
 <div align="center">
 
-# 👋 Hi, I'm **Wesly Baretta Siahaan**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=Wesly%20Baretta%20Siahaan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-### 💻 Full Stack Developer · 🤖 AI/Computer Vision Enthusiast · 🚀 Tech Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Web+%26+Mobile+Applications;AI+%26+Computer+Vision+Enthusiast;Laravel+%7C+FastAPI+%7C+React+%7C+Flutter;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Full-Stack+Web+%26+Mobile+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Scalable+%26+User-Focused+Solutions;Laravel+%7C+React.js+%7C+Node.js+%7C+Flutter;Python+%7C+FastAPI+%7C+Go+%7C+TypeScript" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=weslysiahaan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <a href="mailto:siahaanwesly93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-siahaanwesly93%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/WeslySiahaan">
+    <img src="https://img.shields.io/badge/GitHub-WeslySiahaan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wesly-siahaana27751294/">
+    <img src="https://img.shields.io/badge/LinkedIn-Wesly%20Siahaan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://weslysiahaan.github.io/Website-Personal/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
-<br/><br/>
-
-<a href="mailto:siahaanwesly93@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/weslysiahaan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=WeslySiahaan&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```typescript
-const wesly = {
-    name: "Wesly Baretta Siahaan",
-    role: "Full Stack Developer",
-    education: "B.Sc. in Informatics",
-    location: "Indonesia",
+```text
+Wesly Baretta Siahaan
+────────────────────────────────────────────────────────────
 
-    interests: [
-        "Web Development",
-        "Mobile Development",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Backend Engineering"
-    ],
+🎓 Informatics Student
+   Del Institute of Technology
+   GPA: 3.48 / 4.00
 
-    currentFocus: [
-        "Laravel & PHP",
-        "FastAPI & Python",
-        "React & Next.js",
-        "Flutter",
-        "AI / Computer Vision"
-    ],
+💻 Full Stack Developer
+   Web • Mobile • Backend • RESTful API
 
-    mindset: "Build → Learn → Improve → Repeat 🚀"
-};
+🤖 AI Developer
+   Machine Learning • Computer Vision • YOLO • RAG
+
+🧩 Interested In
+   Software Engineering • AI • Backend Systems
+   Scalable Applications • Real-World Solutions
+
+📍 Samosir, North Sumatra, Indonesia
+
+🚀 Build → Test → Learn → Improve
 ```
 
-💡 I enjoy building applications that combine **clean interfaces, reliable backend systems, and intelligent technology**.
+I'm an **Informatics student at Del Institute of Technology** with hands-on experience in **Full-Stack Web and Mobile Application Development** through internships, academic projects, and software engineering projects.
 
-🎯 My current interests are **Full Stack Development, AI, Computer Vision, and scalable backend architecture**.
+I enjoy developing **responsive interfaces, backend services, database systems, RESTful APIs, cross-platform mobile applications, and AI-powered solutions**.
 
-🧠 I believe the best way to learn technology is by **building real projects and solving real problems**.
+My current interests include **Full Stack Development, Backend Engineering, Artificial Intelligence, Computer Vision, and modern software architecture**.
 
 ---
 
-## 🧩 What I Do
+## ⚡ What I Do
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
 ### 🌐 Web Development
 
-* Full Stack Web Applications
-* REST API Development
-* Responsive UI
-* Authentication & Authorization
-* Database Design
-* Backend Architecture
+React.js
+Angular
+Laravel
+Node.js
+.NET
+REST API
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🤖 AI & Computer Vision
-
-* Object Detection
-* Object Tracking
-* Image Processing
-* YOLO
-* DeepSORT
-* TensorFlow / PyTorch
-* Model Deployment
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
 ### 📱 Mobile Development
 
-* Flutter
-* Dart
-* Android Development
-* Kotlin
-* Jetpack Compose
-* REST API Integration
+Flutter
+Dart
+React Native
+Android
+API Integration
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-### ⚙️ Engineering
+### 🤖 AI & Data
 
-* Git & GitHub
-* Docker
-* Linux
-* MySQL / PostgreSQL
-* API Testing
-* Clean Architecture
-* Performance Optimization
+Python
+YOLOv11
+DeepSORT
+Computer Vision
+Machine Learning
+RAG
 
 </td>
 </tr>
@@ -129,108 +106,281 @@ const wesly = {
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,python,go,java,kotlin,dart,js,ts,html,css,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=go,php,js,ts,python,dart,java,kotlin,cs,c,cpp,sql" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,laravel,nodejs,express,fastapi,dotnet,bootstrap" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,fastapi,dotnet,spring" />
-</p>
-
-### 📱 Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,prisma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" />
 </p>
 
-### 🤖 AI / Data / Computer Vision
+### 🤖 AI / Machine Learning / Computer Vision
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
-### 🔧 Tools & DevOps
+### 🔧 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
 </p>
 
 ---
 
-# 🔥 Featured Project
+# 🚀 Featured Projects
 
-<div align="center">
+## 🧠 TOBAWISE AI
 
-### 🍈 Real-Time Melon Detection & Counting
+### Lake Toba Tourism Recommendation & Planning System
 
-**YOLOv11 + DeepSORT + FastAPI + Flutter**
+**Full Stack & AI Developer**
 
-<img src="https://img.shields.io/badge/Computer%20Vision-YOLOv11-00FFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tracking-DeepSORT-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+> An AI-powered smart tourism platform designed to generate personalized destination recommendations and dynamic travel itineraries for the Lake Toba region.
 
-</div>
+**Tech Stack**
 
-A real-time computer vision system designed to **detect, track, and count melons automatically**.
+`Python` `FastAPI` `React.js` `Vite` `LangGraph` `ChromaDB` `Sentence-Transformers` `MySQL` `SQLite` `RAG`
 
-**Core technologies:**
+### ✨ Highlights
 
-```text
-YOLOv11
-   ↓
-Object Detection
-   ↓
-DeepSORT
-   ↓
-Object Tracking
-   ↓
-Virtual Counting Line
-   ↓
-Real-Time Counting
-   ↓
-FastAPI Backend
-   ↓
-Flutter Mobile Application
-```
-
-### 🎯 Key Features
-
-* 🔍 Real-time melon detection
-* 🎯 Multi-object tracking
-* 🆔 Persistent object IDs
-* 🚫 Reduced double counting
-* 📊 Automated object counting
-* 📱 Mobile application integration
-* ⚡ Real-time inference
+* 🧠 Pure semantic Retrieval-Augmented Generation (RAG)
+* 🔎 Vector semantic search using ChromaDB
+* 🌏 Multilingual sentence-transformer embeddings
+* 🤖 LLM orchestration using LangGraph
+* 💬 Gemini & Groq LLaMA integration
+* 🌦️ Real-time weather-aware recommendations
+* 🗺️ Geographic routing and travel planning
+* 📊 RAG evaluation using MRR, Recall@K, NDCG@K, and MAP
 
 ---
 
-# 📊 GitHub Analytics
+## 🍈 Real-Time Melon Detection & Counting
+
+### YOLOv11 + DeepSORT
+
+**Software Developer & AI Developer**
+
+<a href="https://github.com/WeslySiahaan/projet_tugasakhir">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+> An AI-based mobile system for real-time melon detection, tracking, and counting in agricultural environments.
+
+**Tech Stack**
+
+`Python` `YOLOv11` `DeepSORT` `OpenCV` `FastAPI` `Flutter` `Dart`
+
+### 🔬 Pipeline
+
+```text
+Camera / Image
+      │
+      ▼
+ ┌─────────────┐
+ │   YOLOv11   │
+ │  Detection  │
+ └──────┬──────┘
+        │
+        ▼
+ ┌─────────────┐
+ │  DeepSORT   │
+ │   Tracking  │
+ └──────┬──────┘
+        │
+        ▼
+ ┌─────────────┐
+ │   Counting  │
+ │    Logic    │
+ └──────┬──────┘
+        │
+        ▼
+ ┌─────────────┐
+ │   FastAPI   │
+ │   Backend   │
+ └──────┬──────┘
+        │
+        ▼
+ ┌─────────────┐
+ │   Flutter   │
+ │     App     │
+ └─────────────┘
+```
+
+### ✨ Highlights
+
+* 🎯 Real-time object detection
+* 🆔 Multi-object tracking
+* 🍈 Automated melon counting
+* 🚫 Reduced double counting
+* 🧠 YOLOv11 object detection
+* 🔄 DeepSORT object tracking
+* 📱 Cross-platform Flutter application
+* 📊 Model evaluation using Precision, Recall, and mAP
+
+---
+
+## 💳 FinPay Enterprise-Grade Digital Wallet
+
+**Full-Stack Web Developer & Backend Developer**
+
+<a href="https://github.com/WeslySiahaan/Project_GoLang">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+> Enterprise-grade digital wallet platform focused on secure transaction processing, transfers, withdrawals, and administrative workflows.
+
+**Tech Stack**
+
+`Go` `Fiber` `GORM` `MySQL` `Redis` `JWT` `Docker` `Angular` `TypeScript`
+
+### 🔐 Key Features
+
+* 💰 Digital wallet transactions
+* ⚡ Real-time top-ups
+* 🔄 Peer-to-peer transfers
+* 💸 Withdrawal approval workflow
+* 🔐 JWT authentication
+* 🛡️ RBAC & bcrypt
+* 🔄 Refresh Token Rotation
+* ⚡ Redis caching
+* 🧾 Audit logging
+* 🔒 ACID transaction integrity
+* 🔄 Optimistic locking
+* 🏗️ Clean Architecture
+
+---
+
+## 🏨 StayEase Hotel Management System
+
+**Full-Stack Web Developer**
+
+<a href="https://github.com/WeslySiahaan/StayEase">
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+> Web-based hotel management platform with role-based dashboards for Super Admins and Hotel Owners.
+
+**Tech Stack**
+
+`C#` `.NET Core` `ASP.NET Core Web API` `EF Core` `SQL Server` `MySQL` `React.js` `TypeScript`
+
+### ✨ Features
+
+* 🏨 Hotel management
+* 🛏️ Room management
+* 📅 Reservation tracking
+* 👥 User management
+* 🔐 Role-based access control
+* 📊 Revenue reporting
+* 📈 Administrative dashboard
+
+---
+
+# 💼 Professional Experience
+
+### 🏢 PT Pelindo Multi Terminal
+
+**Full Stack Web Developer**
+📍 Belawan, Medan
+📅 August 2025 – December 2025
+
+```text
+React.js       → Frontend
+Node.js        → Backend
+TypeScript     → Development
+MySQL          → Database
+REST API       → Integration
+Apache JMeter  → Performance Testing
+Agile/Scrum    → Development Methodology
+```
+
+Developed a web-based employee management dashboard for monitoring, updating, and managing employee records while working collaboratively in an Agile development environment.
+
+---
+
+### 🏢 PT Moratek Indonesia
+
+**Full Stack Web Developer**
+📍 Cibubur, Depok, West Java
+📅 March 2025 – August 2025
+
+```text
+Laravel        → Backend
+PHP            → Development
+MySQL          → Database
+JavaScript     → Frontend
+HTML / CSS     → UI
+REST API       → Integration
+Agile/Scrum    → Development Methodology
+```
+
+Developed **CineMora**, a short-form vertical video streaming platform with responsive interfaces, backend functionality, database management, and API integration.
+
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=weslysiahaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+### 🥈 2nd Winner — Artificial Intelligence Hackathon 2026
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslysiahaan&layout=compact&theme=tokyonight&hide_border=true" />
+**"Build Smart Solutions, Shape the Future of Tourism"**
+
+Institut Teknologi Del · 2026
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Hackathon-2nd%20Winner-FFD700?style=for-the-badge&logo=robot&logoColor=black"/>
+
+</div>
+
+### 🏅 Oracle Data Platform 2025
+
+**Certified Foundations Associate — 2026**
+
+Validated foundational knowledge of:
+
+`Database Concepts` · `Data Management` · `Analytics` · `Modern Data Technologies`
+
+### 📚 Dicoding Indonesia
+
+Completed **6 competency certification programs**, including:
+
+* Basic Web Programming
+* Basic JavaScript Programming
+* Front-End Web Development for Beginners
+* Building Web Applications with React
+* Fundamental Web Applications with React
+* React Web Developer Expert
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=WeslySiahaan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslySiahaan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -238,27 +388,17 @@ Flutter Mobile Application
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=weslysiahaan&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=WeslySiahaan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=weslysiahaan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=weslysiahaan&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WeslySiahaan&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -268,57 +408,48 @@ Flutter Mobile Application
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/weslysiahaan/weslysiahaan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/WeslySiahaan/WeslySiahaan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🎓 Certifications & Learning
-
-🏅 **Oracle Data Platform 2025 Certified Foundations Associate**
-
-📚 **Dicoding Indonesia — 6 Competency Certifications**
-
-🚀 **Samsung Innovation Campus — Batch 6**
-
----
-
-# 🌱 Currently Learning
+# 🎯 Current Focus
 
 ```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   🚀 Advanced Full Stack Development          │
-│   🤖 AI & Computer Vision                     │
-│   ⚡ Backend Performance & Scalability        │
-│   🐳 Docker & DevOps                          │
-│   ☁️ Cloud & Deployment                       │
-│   🧠 Software Architecture                    │
-│                                               │
-└───────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   🚀 Full Stack Development                          ║
+║                                                      ║
+║   🤖 Artificial Intelligence                         ║
+║                                                      ║
+║   🧠 Computer Vision & Machine Learning              ║
+║                                                      ║
+║   ⚡ Backend Engineering & API Development           ║
+║                                                      ║
+║   🏗️ Scalable Software Architecture                  ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 💬 Let's Connect
-
 <div align="center">
 
-I'm always interested in discussing:
+### 💬 Let's Build Something Great Together
 
-**Software Engineering · AI · Computer Vision · Web Development · Mobile Development**
+I'm interested in **software engineering, AI, computer vision, backend systems, and building technology that solves real-world problems.**
 
 <br/>
 
 <a href="mailto:siahaanwesly93@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7FF,100:7F00FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=130&section=footer" width="100%"/>
 
 </div>
