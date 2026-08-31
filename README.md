@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/GitHub-WeslySiahaan-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/wesly-siahaana27751294/">
+<a href="https://www.linkedin.com/in/wesly-siahaan/">
 <img src="https://img.shields.io/badge/LinkedIn-Wesly%20Siahaan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -22,15 +22,12 @@
 <img src="https://img.shields.io/badge/Portfolio-Website-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=WeslySiahaan&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<div align="center">
 
 # 👨‍💻 About Me
 
